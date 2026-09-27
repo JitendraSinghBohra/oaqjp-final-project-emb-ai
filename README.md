@@ -1,5 +1,5 @@
-# Repository for final project
-project name => Final Project
+# Repository for Emotion Detection
+
 
 Here is a standard, clear README.md structure customized for your project based on its repository structure:
 
